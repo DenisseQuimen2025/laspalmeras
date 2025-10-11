@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./docs/img/laspalmeras_logo.png" alt="Logo Las Palmeras" width="180">
+  ![Logotipo de Las Palmeras](<./evaluación de la aplicación2/docs/img/laspalmeras_logo.png>)
+
 </p>
 
 # Las Palmeras
