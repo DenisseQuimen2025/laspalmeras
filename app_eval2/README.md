@@ -1,16 +1,13 @@
-# app_eval2
+﻿![Logo Las Palmeras](docs/img/laspalmeras_logo.png)
 
-A new Flutter project.
+![Logo Las Palmeras](docs/img/laspalmeras_laspalmeras_logo.png)
 
-## Getting Started
+# Las Palmeras
+App Flutter: login, CRUD de evaluaciones, filtros, logout.
 
-This project is a starting point for a Flutter application.
+## Ejecutar
+flutter pub get
+flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas
+(agrega imágenes en /docs/img)
