@@ -1,7 +1,5 @@
 ﻿![Logo Las Palmeras](docs/img/laspalmeras_logo.png)
 
-![Logo Las Palmeras](docs/img/laspalmeras_laspalmeras_logo.png)
-
 # Las Palmeras
 App Flutter: login, CRUD de evaluaciones, filtros, logout.
 
@@ -11,5 +9,3 @@ flutter run
 
 ## Capturas
 (agrega imágenes en /docs/img)
-
-
