@@ -1,14 +1,12 @@
-![Logo Las Palmeras](docs/img/laspalmeras_logo.png)
+<p align="center">
+  <img src="./docs/img/laspalmeras_logo.png" alt="Logo Las Palmeras" width="180">
+</p>
 
 # Las Palmeras
-App Flutter: iniciar sesión, CRUD de evaluaciones, filtros, cerrar sesión.
+App Flutter para gestionar evaluaciones (tareas): iniciar sesión, crear/editar/eliminar tareas, filtrarlas (todas/pendientes/completas) y cerrar sesión.
 
-## Proyecto
-El código de la app está en **/evaluación de la aplicación2**.
-
-➡️ [Abrir README de la app](evaluación de la aplicación2/README.md)
-
-## Ejecutar rápido
+## Cómo ejecutar
 ```bash
 flutter pub get
 flutter run
+
