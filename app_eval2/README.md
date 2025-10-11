@@ -11,3 +11,5 @@ flutter run
 
 ## Capturas
 (agrega imágenes en /docs/img)
+
+
