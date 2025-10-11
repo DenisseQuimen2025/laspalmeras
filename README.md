@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenisseQuimen2025/laspalmeras/master/evaluaci%C3%B3n%20de%20la%20aplicaci%C3%B3n2/docs/img/laspalmeras_logo.png" alt="Logo Las Palmeras" width="180">
+  <img src="https://raw.githubusercontent.com/DenisseQuimen2025/laspalmeras/master/evaluaci%C3%B3n%20de%20la%20aplicaci%C3%B3n2/docs/img/laspalmeras_logo" alt="Logo Las Palmeras" width="180">
 </p>
 
 # Las Palmeras
