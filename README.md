@@ -16,7 +16,7 @@ flutter run
 
 
 ## Integrantes 
-Mayra Melgarejo
+Mayra Melgarejo,
 Denisse Quimen
 
 
