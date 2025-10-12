@@ -1,5 +1,8 @@
 
-![Logo Las Palmeras](documentos/laspalmeras_logo.png)
+<p align="center">
+  <img src="./documentos/laspalmeras_logo.png" alt="Logo Las Palmeras" width="180">
+</p>
+
 
 
 # Las Palmeras
