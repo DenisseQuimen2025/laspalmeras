@@ -1,5 +1,5 @@
 
-![Logo Las Palmeras](docs/.gitkeep/laspalmeras_logo.png)
+![Logo Las Palmeras](documentos/laspalmeras_logo.png)
 
 
 # Las Palmeras
@@ -10,6 +10,6 @@ flutter pub get
 flutter run
 
 ## Capturas
-(agrega imágenes en /docs/.gitkeep/laspalmeras_logo.png)
+(agrega imágenes en /documentos/laspalmeras_logo.png)
 
 
