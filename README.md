@@ -13,8 +13,7 @@ App Flutter de una junta de vecinos, para crear eventos y reuniones: iniciar ses
 flutter pub get
 flutter run
 
-## Capturas
-(agrega imágenes en /documentos/laspalmeras_logo.png)
+
 
 ## Integrantes 
 Mayra Melgarejo
