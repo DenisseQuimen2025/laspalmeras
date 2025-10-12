@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenisseQuimen2025/laspalmeras/master/documentos/laspalmeras_logo.png" alt="Logo Las Palmeras" width="180">
+  <img src="docs/laspalmeras_logo.png" alt="Logo de las Palmeras" width="180">
 </p>
 
 
